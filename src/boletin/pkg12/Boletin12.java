@@ -19,9 +19,12 @@ public class Boletin12 {
     Coches coche2 = new Coches("B-2233200");
     
     Coches coche3 = new Coches("C-3332234");
-    
+ 
+   int tempTotal = Integer.parseInt(JOptionPane.showInputDialog(" Introduza o tempo total "));
+   if (tempTotal>0&&tempTotal<=3)
  coche1.coste1();
-
+   else 
+       coche1.coste2();
           
           
     }     
