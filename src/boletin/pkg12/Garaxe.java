@@ -41,11 +41,7 @@ public class Garaxe {
         
           }
      
-    public void amosar(){
-        
-      
-        
-    }
+ 
     
     
     
