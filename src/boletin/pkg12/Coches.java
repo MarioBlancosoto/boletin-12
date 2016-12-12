@@ -64,7 +64,7 @@ public class Coches extends Garaxe{
 
 
     public void saida(){
-        int horas = Integer.parseInt(JOptionPane.showInputDialog(" Amose o número de horas "));//pidese o número de horas que o coche estivo no parking
+      horas = Integer.parseInt(JOptionPane.showInputDialog(" Amose o número de horas "));//pidese o número de horas que o coche estivo no parking
         if(horas>0&&horas<3){
            this.factura1(); //chamada ao método factura1
             }
