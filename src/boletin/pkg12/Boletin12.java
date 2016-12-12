@@ -20,9 +20,11 @@ public class Boletin12 {
     
     Coches coche3 = new Coches("C-3332234");
     
-    coche1.factura();
-          
-   
+    garage.aparcamento();
+    
+     coche1.saida();
+      
+      
     }     
     }
     

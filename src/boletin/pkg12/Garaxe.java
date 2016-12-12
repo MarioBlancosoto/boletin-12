@@ -34,7 +34,7 @@ public class Garaxe {
            
             setNumeroCoches(numeroCoches);
             
-           JOptionPane.showMessageDialog(null," Agora mesmo hay "+numeroCoches+" no Parking ");
+           JOptionPane.showMessageDialog(null," Agora mesmo hay "+numeroCoches+" no Parking "+"Quedan ");
           
     
        }
