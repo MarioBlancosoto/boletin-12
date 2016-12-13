@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 
 
-public class Coches extends Garaxe{
+public class Coches Garaxe{
   
     
   private String matricula ;
